@@ -2,6 +2,8 @@
 
 This tutorial aim to introduce basic but popular command lines in Linux terminal.
 
+You can refer the my the YouTube playlist(expained in khmer) [here](https://www.youtube.com/playlist?list=PLR9cB9dCWlxfLwaLnmz8c34XMxxT7T11A).
+
 ## Tutorial 1
 
 1.  `ctr+alt+t`: open the terminal
