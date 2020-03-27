@@ -34,3 +34,25 @@ You can refer the my the YouTube playlist(expained in khmer) [here](https://www.
     - `..`: the parent directory of the current directory
     - `*`: replace infinite of characters(or even nothing)
     - `?`: replace one and only one character.
+
+# Tutorial 3
+
+16. `history` : priview the last 1000 commands
+17. Tricky key binding
+
+    - `up/down arrow key`: move to the previous or next command
+    - `tab`: autocompletion
+    - `ctr+r`: search the history that match what you type
+    - `ctr+u`: delete everything on the left-hand side of the curser
+    - `ctr+k`: delete everything on the right-hand side of the curser
+    - `ctr+shift+t`:open new tab
+    - `ctr+pageUp/pageDown`: switch to
+    - `-h` or `--help`: display the usage document for a command
+    - `alt+i`: move to the $i^{th}$ tab in the terminal
+      - _ex_ :`alt+2`: move to the second tab
+
+18. funny and cool commands
+
+    - `cmatrix`
+    - `cal`
+    - `say`
