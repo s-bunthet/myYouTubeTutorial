@@ -42,17 +42,22 @@ You can refer the my the YouTube playlist(expained in khmer) [here](https://www.
 
     - `up/down arrow key`: move to the previous or next command
     - `tab`: autocompletion
+    - `ctr+shift+c`: copy text from terminal 
+    - `ctr+shift+v`: past text to terminal 
     - `ctr+r`: search the history that match what you type
     - `ctr+u`: delete everything on the left-hand side of the curser
     - `ctr+k`: delete everything on the right-hand side of the curser
+    - `ctr+lef/right arrow`: move to the next word(seperated by space)
     - `ctr+shift+t`:open new tab
-    - `ctr+pageUp/pageDown`: switch to
-    - `-h` or `--help`: display the usage document for a command
+    - `ctr+pageUp/pageDown`: switch to right/left 
     - `alt+i`: move to the $i^{th}$ tab in the terminal
       - _ex_ :`alt+2`: move to the second tab
+    - `-h` or `--help`: display the usage document for a command
+    
 
 18. funny and cool commands
 
-    - `cmatrix`
-    - `cal`
-    - `say`
+    - `cmatrix`:    characters matrix 
+    - `say`: speak what you write
+    - `telnet towel.blinkenlights.nl`: watch Star Wars in ASCII version
+    
