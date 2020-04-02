@@ -11,10 +11,11 @@
 6. Roadmap to machine learning practitioner
 7. 3 plateforms to write and run your machine learning
    - Your personal computer
-     - Normal
+     - By installing python
+     - Anaconda ()
    - Cloud
-   - Colaboratory
-   - Kaggle Kernel
+     - Colaboratory
+     - Kaggle Kernel
    -
 8. How to get started in Machine learning
 9. Complexity of an algorithm
