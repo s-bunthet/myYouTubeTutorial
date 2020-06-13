@@ -26,3 +26,4 @@
     - SharedLatex
     - LaTex Editor
 13. Create your CV using Canvas
+14. uberisation
